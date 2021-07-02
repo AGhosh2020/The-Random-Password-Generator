@@ -160,7 +160,6 @@
         <button type="button" on:click={CopyToClipboard}>Copy</button>
         <div class="errors">{errors}</div>
         <p>The random password is generated on the device and not on the server</p>
-        <p>Your preference is stored on your device browser cache. As long cache isn't deleted then your preferences will be stored.</p>
     </form>
     
 </div>
